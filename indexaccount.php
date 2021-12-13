@@ -66,7 +66,7 @@
          <tr>
              <td>パスワード</td>
              <td>
-             <input type="password" class="text" size="35" style="ime-mode:disabled;" maxlength="10" name="password" pattern="^[0-9A-Za-z]{6,10}$" required placeholder="６文字以上半角英数字のみ">
+             <input type="password" class="text" size="35" style="ime-mode:disabled;" maxlength="10" name="password" pattern="^[0-9A-Za-z]{6,10}$" required placeholder="６〜１０文字の半角英数字のみ">
                 
              </td>
         </tr>
