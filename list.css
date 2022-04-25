@@ -1,0 +1,47 @@
+.menu1{
+    background-color:black;
+    height:45px;
+    margin:0 auto;
+   font-size:2px;
+}
+
+.menu1 li{
+    color:white;
+    list-style:none;
+    float:left;
+    padding-right:20px;
+    line-height:45px;
+    text-align:center;
+}
+
+.border{
+    border:2px solid black;
+    width:80%;
+    margin:0 auto;
+   
+}
+
+h3{
+    margin-right:700px;
+}
+
+table{
+    margin:0 auto;
+    padding-bottom:15px;
+}
+
+main{
+    text-align:center;
+}
+
+
+footer{
+    clear:left;
+    background-color:black;
+    height:45px;
+    bottom:0px;
+    padding-top:15px;
+    text-align:center;
+    margin:0 auto;
+    color:white;
+}
